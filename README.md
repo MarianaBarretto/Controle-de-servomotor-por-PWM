@@ -14,7 +14,7 @@
 <ul>
     <li>Raspberry Pi Pico (ou Raspberry Pi Pico W)</li>
     <li>Servomotor (micro servo padrão)</li>
-    <li>LED RGB (com 4 pinos ou 3 pinos, focado na cor azul, conectado ao GPIO 12)</li>
+    <li>LED RGB (focado na cor azul, conectado ao GPIO 12)</li>
 </ul>
 
 <h2>Pinos Utilizados</h2>
