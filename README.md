@@ -44,6 +44,15 @@
     <li>Durante o movimento suave do servomotor, a intensidade do LED também varia gradualmente.</li>
 </ul>
 
+<h2>Testes no Código</h2>
+<p>O código inclui funções de teste para verificar o funcionamento do servomotor e do LED azul:</p>
+
+<li><strong>Função testar_servomotor():</strong> Move o servomotor para as posições de 0°, 90° e 180° com pausas de 2 segundos, garantindo que o servo funcione corretamente.</li>
+<li><strong>Função testar_led_azul():</strong> Testa o LED azul em três intensidades (apagado, média e máxima) com pausas de 1 segundo.</li>
+
+<h2>Movimentação Suave</h2>
+<li>O código realiza um movimento suave do servomotor entre as posições de 0° e 180° e vice-versa. Durante esse movimento, a intensidade do LED também varia gradualmente conforme a posição do servomotor.</li>
+
 <h2>Instruções para Execução</h2>
 <ol>
     <li><strong>Conecte o Servomotor e o LED ao Raspberry Pi Pico:</strong>
