@@ -72,6 +72,11 @@
 <h2>Observações</h2>
 <p>O controle de intensidade do LED é feito com base na posição do servomotor. O movimento do servomotor influencia diretamente o brilho do LED. A frequência de PWM foi ajustada para 50Hz, o que é comum para controle de servomotores.</p>
 
+<h2>Imagens</h2>
+
+ <p align="center">
+  <img src="" alt="LED Verde Ligado" />
+  </p>
 
 
 <h3>Vídeo de Demostração</h3>
