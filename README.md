@@ -75,7 +75,7 @@
 <h2>Imagens</h2>
 
  <p align="center">
-  <img src="" alt="LED Verde Ligado" />
+  <img src="https://github.com/MarianaBarretto/Controle-de-servomotor-por-PWM/blob/main/Imagem.jpg" alt="Controle de Servomotor por PWM" />
   </p>
 
 
